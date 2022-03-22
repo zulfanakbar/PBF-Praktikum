@@ -1,14 +1,15 @@
 import React from 'react';
 import ReactDOM from 'react-dom';
 import './index.css';
-import App from './App';
+// import App from './App';
 import reportWebVitals from './reportWebVitals';
-import Test from './Test';
 import HelloComponent from './components/HelloComponent';
-import Login from './Login';
+import 'bootstrap/dist/css/bootstrap.min.css';
+// import HelloComponent from "./component/HelloComponent";
+// import StateFullComponent from "./container/StateFullComponent";
+import LoginComponent from "./components/LoginComponent";
 
-// ReactDOM.render(<Login />, document.getElementById('root'));
-ReactDOM.render(<App />, document.getElementById('root'));
+ReactDOM.render(<LoginComponent />, document.getElementById('root'));
 
 // class StateFullComponent extends React.Component {
 //   render() {
