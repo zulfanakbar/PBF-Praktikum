@@ -1,0 +1,36 @@
+{
+  "keranjang": [
+    {
+      "id": 1,
+      "idProduk": 1,
+      "nama": "TV 1",
+      "harga": 2500000,
+      "qty": 4,
+      "subTotal": 10000000
+    },
+    {
+      "id": 2,
+      "idProduk": 2,
+      "nama": "TV 2",
+      "harga": 1500000,
+      "qty": 3,
+      "subTotal": 4500000
+    },
+    {
+      "id": 3,
+      "idProduk": 3,
+      "nama": "TV 3",
+      "harga": 2500000,
+      "qty": 4,
+      "subTotal": 10000000
+    },
+    {
+      "id": 4,
+      "idProduk": 5,
+      "nama": "tv4",
+      "harga": 2400000,
+      "qty": 1,
+      "subTotal": 2400000
+    }
+  ]
+}

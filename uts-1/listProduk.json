@@ -1,0 +1,46 @@
+{
+  "produk": [
+    {
+      "id": 1,
+      "nama": "TV 1",
+      "harga": 2500000,
+      "stok": 3,
+      "gambar": "./images/tv1.jpg"
+    },
+    {
+      "id": 2,
+      "nama": "TV 2",
+      "harga": 1500000,
+      "stok": 8,
+      "gambar": "./images/tv2.jpg"
+    },
+    {
+      "id": 3,
+      "nama": "TV 3",
+      "harga": 2500000,
+      "stok": 10,
+      "gambar": "./images/tv3.jpg"
+    },
+    {
+      "id": 4,
+      "nama": "TV 4",
+      "harga": 1600000,
+      "stok": 10,
+      "gambar": "./images/tv4.jpg"
+    },
+    {
+      "id": 5,
+      "nama": "TV 5",
+      "harga": 2400000,
+      "stok": 10,
+      "gambar": "./images/tv5.jpg"
+    },
+    {
+      "id": 6,
+      "nama": "TV 6",
+      "harga": 2900000,
+      "stok": 14,
+      "gambar": "./images/tv6.jpg"
+    }
+  ]
+}
